@@ -1,3 +1,5 @@
+//Clasa Pizzer - conține metode care construiesc o instanță de Pizza prin intermediul obiectului PizzaBuilder.
+
 package clase;
 
 public class Pizzer {
