@@ -1,3 +1,4 @@
+//Clasa PizzaBuilder - construiește obiectul Pizza în mai multe etape și returnează instanța finală.
 package clase;
 
 public class PizzaBuilder {
