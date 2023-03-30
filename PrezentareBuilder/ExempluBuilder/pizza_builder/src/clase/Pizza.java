@@ -1,7 +1,7 @@
 package clase;
 
 public class Pizza {
-    // va
+    
     public String blat;
     public String sos;
     public String toppinguri;
