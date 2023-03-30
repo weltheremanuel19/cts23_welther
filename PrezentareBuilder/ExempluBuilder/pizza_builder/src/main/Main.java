@@ -1,3 +1,4 @@
+//Clasa Main - conține metoda main care utilizează obiectele PizzaBuilder și Pizzer pentru a construi și afișa două instanțe de Pizza.
 package main;
 
 import clase.Pizza;
