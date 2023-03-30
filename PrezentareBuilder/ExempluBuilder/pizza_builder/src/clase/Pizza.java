@@ -1,3 +1,4 @@
+//Clasa Pizza - definește obiectul Pizza cu proprietățile sale, inclusiv constructor și metodele de acces și modificare.
 package clase;
 
 public class Pizza {
