@@ -1,5 +1,6 @@
 Am denumit seminariile în funcție de ordinea în care le-am realizat, și nu în funcție de săptămâna în care ne aflăm
 
+
 -sem. 1: introducere
 -sem. 2: prezentare generala clase/main si concepte CTS
 -sem. 3: "-"
