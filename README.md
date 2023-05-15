@@ -18,3 +18,5 @@ sunt denumite în funcție de ordinea în care le-am realizat
 -sem. 8: decorator si flyweight
 
 -sem. 9: composite, strategy, proxy
+
+-sem. 10: memento, chain responsibility, template
