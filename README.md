@@ -20,3 +20,5 @@ sunt denumite în funcție de ordinea în care le-am realizat
 -sem. 9: composite, strategy, proxy
 
 -sem. 10: memento, chain responsibility, template
+
+-sem. 11: testarea
